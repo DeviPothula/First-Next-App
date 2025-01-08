@@ -7,5 +7,6 @@ export const roboto = Roboto({
 })
 
 export const oswald = Oswald({
+    subsets: ['latin'],
     weight: ["400"]
 })
